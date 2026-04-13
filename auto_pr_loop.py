@@ -7,7 +7,7 @@ import shutil
 FILENAME = "numbers.txt"
 BASE_BRANCH = "main"
 N = int(sys.argv[1]) if len(sys.argv) > 1 else 5
-WAIT_SECONDS = 2
+WAIT_SECONDS = 30
 # --------------
 
 
